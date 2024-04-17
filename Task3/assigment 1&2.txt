@@ -1,0 +1,11 @@
+Assigment 1
+
+write a program in c to make a simple calculator program that performs arithmetic operations on two numbers based on user input (addition , subtraction , multiplication , dvision) you can only use a single pointer to function.  your program should provide a menu for user to choose the operation and the prompt the user to enter two enter two number after performing the selection operation , program display result
+
+                                   <<< using if  >>>  
+
+Assiment 2
+
+write a program in c to create the same calculator with same user input but it a function like marco use switch case instead of if statment
+
+                               <<<using switch case >>>
